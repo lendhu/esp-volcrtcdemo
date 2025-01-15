@@ -1,0 +1,4 @@
+#define DEFAULT_APPID ""
+#define DEFAULT_ROOMID "esp32"
+#define DEFAULT_UID "esp32s3_device"
+#define DEFAULT_TOKEN ""
